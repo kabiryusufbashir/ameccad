@@ -1,0 +1,38 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    background-color: #96bb7c;
+}
+
+#slogan{
+    padding-top: 10rem;
+    padding-bottom: 6rem;
+}
+
+.title{
+    font-family: 'Merriweather Sans', sans-serif;
+    text-align: left;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.nav-item{
+    padding: 0 18px;
+}
+
+.nav-link{
+    font-size: 1.1rem;
+    font-weight: 800;
+}
+
+.fa-whatsapp{
+    color:#25d366;
+}
+
+.fa-twitter{
+    color: #00acee;
+}
+
+.fa-facebook-square{
+    color: #3b5998;
+}
