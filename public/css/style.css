@@ -1,7 +1,7 @@
 body{
     font-family: 'Montserrat', sans-serif;
     text-align: center;
-    background-color: #96bb7c;
+    background-color: #246ba1;
 }
 
 #slogan{
@@ -35,4 +35,8 @@ body{
 
 .fa-facebook-square{
     color: #3b5998;
+}
+
+.bg-color{
+    background-color: #246ba1;
 }
