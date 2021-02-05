@@ -10,8 +10,8 @@ app.get('/', (req, res)=>{
     res.render('index');
 });
 
-app.get('/courses', (req, res)=>{
-    res.render('courses');
+app.get('/it', (req, res)=>{
+    res.render('it');
 });
 
 app.listen(3000, ()=>{
