@@ -18,6 +18,10 @@ app.get('/electrical', (req, res)=>{
     res.render('electrical');
 });
 
+app.get('/civil', (req, res)=>{
+    res.render('civil');
+});
+
 app.listen(3000, ()=>{
     console.log('Server running on port 3000');
 });
