@@ -22,6 +22,10 @@ app.get('/civil', (req, res)=>{
     res.render('civil');
 });
 
+app.get('/mechanical', (req, res)=>{
+    res.render('mechanical');
+});
+
 app.listen(3000, ()=>{
     console.log('Server running on port 3000');
 });
